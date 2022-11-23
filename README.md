@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vms419
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Graphic designing, UI designing, Front end development.
+- 🌱 I’m keep updating myself everyday
+- 💞 Life is not tougher than coding.
 
 <!---
 Vms419/Vms419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
